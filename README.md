@@ -1,5 +1,3 @@
 # KinectMusic
 
-_Add Jenkins Build Status Here_
-
-This is to test commit
+[![Build Status](http://batonrouge.remote.mylingoapp.com:5364/buildStatus/icon?job=TestProjectBuild)](http://172.16.1.12:5364/job/TestProjectBuild/)
